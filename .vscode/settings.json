@@ -4,6 +4,7 @@
     "*.cu": "c",
     "xstring": "cpp",
     "xiosbase": "cpp",
-    "xlocale": "cpp"
+    "xlocale": "cpp",
+    "deque": "cpp"
   }
 }
